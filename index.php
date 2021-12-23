@@ -12,18 +12,7 @@
     require_once 'include/functions.php';
     $config = conn($host, $username, $password, $database);
 ?>
-<!--
 
-Name        : Aplikasi Sederhana Manajemen Surat Menyurat
-Version     : v1.0.1
-Description : Aplikasi untuk mencatat data surat masuk dan keluar secara digital.
-Date        : 2020
-Developer   : Fitser Lauma, S.Pd.I
-Phone/WA    : 0813-4231-3216
-Email       : fitserlauma@gmail.com
-Website     : https://sites.google.com/view/mtsalkhairaatboroko
-
--->
 <!doctype html>
 <html lang="en">
 
